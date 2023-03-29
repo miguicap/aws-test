@@ -14,6 +14,6 @@ curl -L https://github.com/docker/compose/rel... -s)-$(uname -m) -o /usr/local/b
 chmod +x /usr/local/bin/docker-compose
 
 # Install code deploy agent
-wget https://aws-codedeploy-us-east-1.s3.u...
+wget https://aws-codedeploy-us-east-1.s3.us-east-1.amazonaws.com/latest/install
 chmod +x ./install
 ./install auto

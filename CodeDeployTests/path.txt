@@ -1,0 +1,21 @@
+#Create IAM Role
+
+#commands to run in the vm:
+
+docker ps
+docker compose -v
+sudo service codedeploy-agent status
+
+#Create a tag in the instance
+
+#Deploy appspec.yml
+
+#Create script (install.sh)
+
+#Create Docker-compose file
+
+#Create nginx.conf file
+
+#Create S3 bucket and upload the folder as a .zip
+
+#Create all CodeDeploy stuff
